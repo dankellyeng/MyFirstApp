@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="ohh">Oh baby baby</string>
+    <string name="tapme">Tap me</string>
+    <string name="oops">1.</string>
+    <string name="i">2.</string>
+    <string name="did">3.</string>
+    <string name="it">4.</string>
+    <string name="again">5.</string>
+</resources>
